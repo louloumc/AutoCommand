@@ -1,0 +1,9 @@
+name: AutoCommand
+version: '1.0'
+main: com.plugins.loulou.AutoCommand
+authors: [ loulou ]
+description: 111
+commands:
+  acm:
+    description: 用于执行某项操作
+    usage: /acm <参数>

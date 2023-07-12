@@ -1,0 +1,4 @@
+custom-cmds:
+  - 'is reload'
+  - 'qiandao reload'
+custom-time: '12:10'
